@@ -16,7 +16,7 @@ dependencies:
   - python-snappy=0.6.1
   - pytorch=2.0.1
   - pytorch-cuda=11.8
-  - snappy=1.1.9
+  - snappy=1.1.10
   - torchaudio=2.0.2
   - torchvision=0.15.2
   - pip:
